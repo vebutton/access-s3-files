@@ -1,0 +1,4 @@
+AWS_ACCESS_KEY_ID: dummy_access_key
+AWS_SECRET_ACCESS_KEY: dummy_secret_key
+AWS_ENDPOINT: https://dummy.endpoint
+AWS_BUCKET_NAME: dummy-bucket
